@@ -1,2 +1,2 @@
 # VinteUm
-blackjack só que em python 💀
+mini blackjack só que em python 💀
